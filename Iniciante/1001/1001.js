@@ -1,5 +1,5 @@
 // comando que imprime mensagem no console do navegador ou do vscode
-console.log('URI Exercício')
+console.log('Tá tocando pagode')
 
 // comando que exibe um alerta no navegador
 alert('URI Exercício')
