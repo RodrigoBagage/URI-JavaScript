@@ -1,13 +1,6 @@
-// comando que imprime mensagem no console do navegador ou do vscode
-console.log('Tá tocando pagode')
+let A= parseInt(prompt('Digita o primeiro'));
+let B= parseInt(prompt('Digita o segundo'));
 
-// comando que exibe um alerta no navegador
-alert('URI Exercício')
+let resultado= A+B
 
-// comando que escreve no documento html
-document.write('Bagage')
-
-// comando para recuperar dados digitados pelo usuário
-// obs: o retorno é sempre uma string
-let nome = prompt('Digite seu nome: ')
-console.log(nome)
+console.log('RESULTADO = '+ resultado)
