@@ -1,6 +1,12 @@
-let A=parseInt(prompt('Digite um número'));
-let B=parseInt(prompt('Digite um número'));
+// Leia dois valores inteiros, no caso para variáveis A e B
+// A seguir , calcule a soma entre elas e atribua à variável SOMA.
+// RETORNAR - ATRIBUIR - OPERAÇÃO ARITIMÉTICA - CONCATENAR
+// CHAMADA DE FUNÇÃO
+// A função prompt retorna o valor digitado do tipo string
 
-let SOMA=A+B
+let A= parseInt(prompt('Digite um valor inteiro'));
+let B= parseInt(prompt('Digite um valor inteiro'));
 
-console.log('SOMA = '+ SOMA)
+let SOMA = A + B;
+
+console.log('SOMA = '+ SOMA);
